@@ -2,6 +2,8 @@
 
 # can-zone
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/canjs/can-zone.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/canjs/can-zone.svg?branch=master)](https://travis-ci.org/canjs/can-zone)
 [![npm version](https://badge.fury.io/js/can-zone.svg)](http://badge.fury.io/js/can-zone)
 
